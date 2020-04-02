@@ -8,6 +8,7 @@ I use this repository to keep a record of all tools I use for development.
 - [Debuger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
 - [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
+- [Beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify)
 
 ### GitHub Desktop
 
