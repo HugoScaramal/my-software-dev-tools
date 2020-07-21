@@ -11,6 +11,7 @@ I use this repository to keep a record of all tools I use for development.
 - [Beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify)
 - [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
 - [Theme - One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
+- [TODO List](https://marketplace.visualstudio.com/items?itemName=TzachOvadia.todo-list)
 ### GitHub Desktop
 
 ### Docker
